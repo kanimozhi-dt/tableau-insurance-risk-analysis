@@ -47,5 +47,3 @@ https://public.tableau.com/app/profile/kanimozhi.s5156/viz/InsuranceClaimsRiskAn
 - Risk is not evenly distributed — it clusters by **customer profile and region**
 
 ---
-
-## 📁 Repository Structure
